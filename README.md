@@ -19,10 +19,26 @@ pip install -r requirements.txt
 ## Dataset
 
 Please obtain FHM, HarM, and MAMI, and place them in the following directories: 
-
-- MIND/data/FHM
-- MIND/data/HarM
-- MIND/data/MAMI
+```
+MIND/
+├── data/
+│   ├── FHM/
+│   │   ├── images/
+│   │   │   └── ...
+│   │   ├── test.jsonl
+│   │   └── train.jsonl
+│   ├── HarM/
+│   │   ├── images/
+│   │   │   └── ...
+│   │   ├── test.jsonl
+│   │   └── train.jsonl
+│   └── MAMI/
+│       ├── images/
+│       │   └── ...
+│       ├── test.jsonl
+│       └── train.jsonl
+└── ...
+```
 
 ## Quick Start
 
