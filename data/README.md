@@ -2,6 +2,7 @@
 
 Make sure that datasets are stored as follows:
 
+```
 MIND/
 ├── data/
 │   ├── FHM/
@@ -20,3 +21,4 @@ MIND/
 │       ├── test.jsonl
 │       └── train.jsonl
 └── ...
+```
