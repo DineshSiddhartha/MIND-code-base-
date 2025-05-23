@@ -1,5 +1,5 @@
 # MIND
-Official code for paper - **MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**.
+The official pytorch implement of - **MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**.
 
 ## Install
 
