@@ -5,7 +5,7 @@ The official pytorch implement of - **MIND: A Multi-agent Framework for Zero-sho
 
 1. Clone the repo
 ```
-git clone git@github.com:destroy-lonely/MIND.git
+git clone https://github.com/destroy-lonely/MIND.git
 cd MIND
 ```
 
